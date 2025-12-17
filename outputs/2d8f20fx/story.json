@@ -1,0 +1,39 @@
+{
+  "id": "2d8f20fx",
+  "display_title": "Gary (8): Moss, Adventure, ruins - 2d8f20fx",
+  "name": "Gary",
+  "age": 12,
+  "keywords": "Moss, Adventure, ruins",
+  "character_desc": "Gary is a chubby, rosy-cheeked youngster with curly brown hair, bright green eyes, and scattered freckles, wearing a red winter coat, beige snow pants, brown boots, and a green scarf with mittens.",
+  "story": "Gary walked through the forest, feeling the soft moss beneath his feet. The trees grew taller and the path grew narrower, leading him to an ancient ruin. [SCENE_BREAK] The ruins were covered in a thick layer of moss, making them look like a green, crumbling castle. [SCENE_BREAK] Gary's heart beat fast with excitement as he pushed aside the moss and stepped inside. [SCENE_BREAK] The air inside was musty and filled with the scent of old stones. [SCENE_BREAK] He wandered through the empty halls, his footsteps echoing off the walls. [SCENE_BREAK] As he turned a corner, he stumbled upon a hidden room. [SCENE_BREAK] Inside, he found a small, leather-bound book filled with handwritten notes. [SCENE_BREAK] The pages were yellowed and worn, but the words told a tale of adventure and bravery. [SCENE_BREAK] Gary felt a surge of courage and decided to embark on his own adventure. [SCENE_BREAK] He closed the book and stepped back out into the moss-covered ruins. [SCENE_BREAK] The forest seemed brighter and more vibrant than before, filled with possibilities. [SCENE_BREAK] Gary took a deep breath, feeling the cool, crisp air fill his lungs. [SCENE_BREAK] With a sense of wonder, he set off into the unknown, the moss soft beneath his feet. [SCENE_BREAK] ",
+  "scenes": [
+    "Gary walked through the forest, feeling the soft moss beneath his feet. The trees grew taller and the path grew narrower, leading him to an ancient ruin.",
+	"The ruins were covered in a thick layer of moss, making them look like a green, crumbling castle.",
+	"Gary's heart beat fast with excitement as he pushed aside the moss and stepped inside.",
+	"The air inside was musty and filled with the scent of old stones.",
+	"He wandered through the empty halls, his footsteps echoing off the walls.",
+	"As he turned a corner, he stumbled upon a hidden room.",
+	"Inside, he found a small, leather-bound book filled with handwritten notes.",
+	"The pages were yellowed and worn, but the words told a tale of adventure and bravery.",
+	"Gary felt a surge of courage and decided to embark on his own adventure.",
+	"He closed the book and stepped back out into the moss-covered ruins.",
+	"The forest seemed brighter and more vibrant than before, filled with possibilities.",
+	"Gary took a deep breath, feeling the cool, crisp air fill his lungs.",
+	"With a sense of wonder, he set off into the unknown, the moss soft beneath his feet."
+  ],
+  "image_paths": [
+    "outputs\\2d8f20fx\\01.png",
+    "outputs\\2d8f20fx\\02.png",
+    "outputs\\2d8f20fx\\03.png",
+    "outputs\\2d8f20fx\\04.png",
+    "outputs\\2d8f20fx\\05.png",
+    "outputs\\2d8f20fx\\06.png",
+    "outputs\\2d8f20fx\\07.png",
+    "outputs\\2d8f20fx\\08.png",
+    "outputs\\2d8f20fx\\09.png",
+    "outputs\\2d8f20fx\\10.png",
+    "outputs\\2d8f20fx\\11.png",
+    "outputs\\2d8f20fx\\12.png",
+    "outputs\\2d8f20fx\\13.png"
+  ]
+}
