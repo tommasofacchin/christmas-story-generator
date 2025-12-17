@@ -1,0 +1,13 @@
+streamlit
+torch
+Pillow
+protobuf<6
+datapizza-ai
+datapizza-ai-clients-openai
+diffusers
+transformers
+accelerate
+safetensors
+peft>=0.17.0
+huggingface_hub>=0.23.0
+reportlab
