@@ -79,9 +79,8 @@ Each story is fully self‑contained in `outputs/<story_id>/`, including all ima
 
 ## Installation & setup (Windows / PowerShell)
 
-1. **Clone the repository**
-
 ```powershell
+# Clone the repository
 git clone https://github.com/tommasofacchin/christmas-story-generator.git
 cd christmas-story-generator
 
