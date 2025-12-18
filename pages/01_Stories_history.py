@@ -67,7 +67,12 @@ st.divider()
 
 slides_b64 = []
 for img_path in data["image_paths"]:
-    full_path = (BASE_DIR / img_path).resolve()
+    #full_path = (BASE_DIR / img_path).resolve()
+    full_path = (BASE_DIR / Path(img_path)).resolve()
+    
+    if not full_path.exists():
+        continue  
+        
     with open(full_path, "rb") as f:
         b = f.read()
     slides_b64.append(base64.b64encode(b).decode())
