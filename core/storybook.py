@@ -72,7 +72,8 @@ def generate_storybook(
 
         img_path = story_out_dir / f"{i:02d}.png"
         img.save(img_path)
-        image_paths.append(str(img_path))
+        #image_paths.append(str(img_path))
+        image_paths.append(img_path.as_posix())
 
         buf = BytesIO()
         img.save(buf, format="PNG")
