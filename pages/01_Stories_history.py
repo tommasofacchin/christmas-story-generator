@@ -69,6 +69,7 @@ slides_b64 = []
 for img_path in data["image_paths"]:
     #full_path = (BASE_DIR / img_path).resolve()
     full_path = (BASE_DIR / Path(img_path)).resolve()
+    st.write(f"resolved full_path: {full_path}, exists={full_path.exists()}")
     
     if not full_path.exists():
         continue  
