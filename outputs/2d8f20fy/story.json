@@ -1,0 +1,29 @@
+{
+  "id": "2d8f20fy",
+  "display_title": "Steve (8): Moss, Adventure, ruins - 2d8f20fy",
+  "name": "Steve",
+  "age": 12,
+  "keywords": "Green moss, apocalypse, ancient ruins",
+  "character_desc": "An 8-year-old boy with light brown skin, bright blue eyes, and messy blond hair, has freckles, wears a green sweater, brown pants, warm boots, and a red scarf wrapped around his neck.",
+  "story": "The world had ended in a catastrophic apocalypse, but amidst the ruins, a strange green moss began to grow. It covered the ancient stones, making them look like they were worn by time, not destruction. [SCENE_BREAK] Steve, a young boy, wandered through the ruins, fascinated by the moss's gentle glow. [SCENE_BREAK] As he walked, the moss grew thicker, forming a soft, green carpet under his feet. [SCENE_BREAK] The air was filled with an otherworldly silence, broken only by the faint sound of Christmas bells. [SCENE_BREAK] Steve followed the sound, his heart filled with wonder, and discovered a small Christmas tree hidden among the ruins. [SCENE_BREAK] The tree was covered in green moss, and its branches were decorated with tiny, glowing ornaments. [SCENE_BREAK] Steve smiled, feeling a sense of magic in the desolate world, and reached out to touch the tree's soft, mossy branches. [SCENE_BREAK] In that moment, Steve felt a sense of peace, and the green moss seemed to glow brighter, as if it too felt the joy of Christmas. [SCENE_BREAK] ",
+  "scenes": ["The world had ended in a catastrophic apocalypse, but amidst the ruins, a strange green moss began to grow. It covered the ancient stones, making them look like they were worn by time, not destruction.",
+	"Steve, a young boy, wandered through the ruins, fascinated by the moss's gentle glow.",
+	"As he walked, the moss grew thicker, forming a soft, green carpet under his feet.",
+	"The air was filled with an otherworldly silence, broken only by the faint sound of Christmas bells.",
+	"Steve followed the sound, his heart filled with wonder, and discovered a small Christmas tree hidden among the ruins.",
+	"He closed the book and stepped back out into the moss-covered ruins.",
+	"The tree was covered in green moss, and its branches were decorated with tiny, glowing ornaments.",
+	"Steve smiled, feeling a sense of magic in the desolate world, and reached out to touch the tree's soft, mossy branches.",
+	"In that moment, Steve felt a sense of peace, and the green moss seemed to glow brighter, as if it too felt the joy of Christmas."
+  ],
+  "image_paths": [
+    "outputs/2d8f20fy/01.png",
+    "outputs/2d8f20fy/02.png",
+    "outputs/2d8f20fy/03.png",
+    "outputs/2d8f20fy/04.png",
+    "outputs/2d8f20fy/05.png",
+    "outputs/2d8f20fy/06.png",
+    "outputs/2d8f20fy/07.png",
+    "outputs/2d8f20fy/08.png"
+  ]
+}
