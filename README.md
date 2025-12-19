@@ -139,6 +139,9 @@ On CPU you might want to tune parameters in `core/config.py`:
 
 ***
 
+
+![Streamlit home](img/streamlit_home.png)
+
 ## How it works (high level)
 
 1. The user fills in child name, age, and themes (or clicks the 🎲 button to sample 3 random themes from `THEME_POOL`).  
